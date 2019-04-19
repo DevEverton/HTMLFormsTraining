@@ -19,7 +19,7 @@ To test it out just download the files and run in your own browser.
 
 ### Source
 
-This form is a part of a training material o teamtreehouse.com on the Front-end Web Development track.
+This form is a part of a training material on teamtreehouse.com on the Front-end Web Development track.
 
 
 
